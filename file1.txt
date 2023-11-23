@@ -1,3 +1,4 @@
 hollo-git-cli
 second
 third -my branch
+fourth -my branch
